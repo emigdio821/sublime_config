@@ -1,2 +1,2 @@
 ## Sublime Preferences
-This is just my Sublime Text configuration.
+Just my sublime configuration with plugins and some other dev tool configurations.
