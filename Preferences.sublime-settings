@@ -1,11 +1,14 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Spectrum) (SL).tmTheme",
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Spectrum).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"font_face": "SF Mono Medium",
-	"font_size": 15,
+	"font_size": 11,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -20,6 +23,8 @@
 	"monokai_pro_small_scrollbar": true,
 	"monokai_pro_style_title_bar": true,
 	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
 	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
 }
